@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "s",
   "functions": {
     "api/index.js": {
-      "memory": 128,
+      "memory": 64,
       "maxDuration": 60
     }
   },
